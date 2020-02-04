@@ -5,6 +5,8 @@ This is a quick'n'dirty implementation of the publicly available layouts on http
 You should buy the book :) You can then use this repo as a starting point to implement the rest
 (it's rather simple, actually).
 
+The idea for passing CSS vars with `style` to have dynamic CSS comes from [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/).
+
 ### What's here
 
 **CSS**
